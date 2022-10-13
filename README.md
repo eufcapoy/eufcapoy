@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eufcapoy
 - 👀 I’m interested in Programming
-- 🌱 I’m an aspiring Full Stack Developer
+- 🌱 I’m an aspiring Full Stack Developer and I'm currently learning about c++
 - 💞️ I’m looking to collaborate on people who are interested on collaborating with me
 - 📫 How to reach me @eufemiocapoy.anhs@gmail.com/ https://www.facebook.com/mctireds
 
