@@ -1,4 +1,4 @@
-Howdy!, I'm a college student and im learning about data structure, im interested at machine learning and programming
+Howdy!, I'm a college student and im learning about data structure, im interested in machine learning and programming
 currently focusing on c programming language, i do commissions feel free to contact me with my email
 eufemiocapoy.anhs@gmail.com or contact me by messaging me on facebook facebook.com/mctireds
 <!---
