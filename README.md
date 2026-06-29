@@ -35,7 +35,7 @@ Personal portfolio built with Next.js.
 
 ## Connect with Me
 
-- LinkedIn: *(add your LinkedIn URL)*
+- LinkedIn: *www.linkedin.com/in/eufemiocapoyv*
 - Portfolio: *(add once deployed)*
 
 <!---
