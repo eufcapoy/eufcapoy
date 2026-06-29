@@ -1,6 +1,6 @@
-# Hi, I'm Eufemio Capoy 👋
+# Hi, I'm Eufemio Capoy 
 
-🎓 Bachelor of Science in Information Technology graduate from the University of Cebu.
+Bachelor of Science in Information Technology graduate from the University of Cebu.
 
 I enjoy building Android applications, web applications, and AI-powered solutions while continuously improving my software development skills.
 
