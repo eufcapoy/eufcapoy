@@ -1,8 +1,42 @@
-Information Technology Graduate with practical experience developing mobile, web, and IoT
-applications through academic projects and Salesforce internship training. Experienced in
-application development, database integration, testing, and troubleshooting while working with
-modern development tools and technologies. Seeking an entry-level opportunity to apply technical
-knowledge and grow as a developer.
+# Hi, I'm Eufemio Capoy 👋
+
+🎓 Bachelor of Science in Information Technology graduate from the University of Cebu.
+
+I enjoy building Android applications, web applications, and AI-powered solutions while continuously improving my software development skills.
+
+## Technical Skills
+
+- Java
+- Kotlin
+- PHP
+- Laravel
+- Python
+- Firebase
+- MySQL
+- Salesforce
+- Apex
+- SOQL
+- Git
+- GitHub
+
+## Featured Projects
+
+### DermaScan
+AI-powered facial skin analysis and personalized skincare recommendation system.
+
+### HeatAlert
+IoT-based fire detection and monitoring system using ESP32.
+
+### 4Notes
+Laravel CRUD web application for secure note management.
+
+### Portfolio Website
+Personal portfolio built with Next.js.
+
+## Connect with Me
+
+- LinkedIn: *(add your LinkedIn URL)*
+- Portfolio: *(add once deployed)*
 
 <!---
 eufcapoy/eufcapoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
