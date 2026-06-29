@@ -2,7 +2,7 @@
 
 Bachelor of Science in Information Technology graduate from the University of Cebu.
 
-I enjoy building Android applications, web applications, and AI-powered solutions while continuously improving my software development skills.
+I enjoy building Android Applications, Web Applications, and AI-powered solutions while continuously improving my software development skills.
 
 ## Technical Skills
 
