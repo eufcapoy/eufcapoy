@@ -36,7 +36,7 @@ Personal portfolio built with Next.js.
 ## Connect with Me
 
 - LinkedIn: *www.linkedin.com/in/eufemiocapoyv*
-- Portfolio: *(add once deployed)*
+- Portfolio: 
 
 <!---
 eufcapoy/eufcapoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
