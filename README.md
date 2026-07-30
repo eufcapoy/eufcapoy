@@ -29,7 +29,7 @@
 I'm a software developer from **Cebu City, Philippines** who enjoys turning ideas into practical products. I work across web, Android, backend, IoT, and AI—especially on projects where several technologies need to work together as one dependable system.
 
 - 🎓 **BS Information Technology**, University of Cebu – Banilad, Class of 2026
-- 💼 Former **Salesforce Intern at Accenture Academy**, building and customizing business applications
+- 💼 Former **Salesforce Intern at Accenture Academy**
 - 🏆 Built **DermaScan**, awarded Best Innovation among 17 teams
 - 🚀 **CebuSolutionsFest 2026 finalist** among 70+ teams for a Cebu City civic-tech platform
 - 🌱 Currently sharpening my backend, AI integration, and production software engineering skills
