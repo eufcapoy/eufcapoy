@@ -18,6 +18,12 @@
 
 <br />
 
+<div align="center">
+  <img width="96%" src="./assets/profile-terminal.svg" alt="Terminal introduction for Eufemio Capoy V" />
+</div>
+
+<br />
+
 ---
 
 ## About
