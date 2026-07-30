@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:7c3aed&text=Eufemio%20Capoy%20V&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Web%20%26%20Mobile&descAlignY=60&animation=fadeIn" alt="Eufemio Capoy V — Software Developer" />
+  <h1>Hi, I'm Eufemio Capoy V 👋</h1>
+  <h3>Software Developer · Web & Mobile</h3>
 </div>
 
 <div align="center">
@@ -100,16 +101,7 @@ const eufemio = {
   </tr>
 </table>
 
-## GitHub overview
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eufcapoy&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=8b5cf6&text_color=94a3b8&ring_color=7c3aed&rank_icon=github" alt="Eufemio's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufcapoy&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=94a3b8&langs_count=8" alt="Eufemio's most-used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=eufcapoy&theme=transparent&hide_border=true&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Eufemio's GitHub contribution streak" />
-</div>
+## GitHub activity
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=eufcapoy&bg_color=00000000&color=94a3b8&line=60a5fa&point=8b5cf6&area=true&area_color=2563eb&hide_border=true" alt="Eufemio's GitHub activity graph" />
