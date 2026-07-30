@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Eufemio Capoy V 👋</h1>
+  <h1>Hi, I'm Eufemio Capoy V </h1>
   <h3>Software Developer · Web & Mobile</h3>
 </div>
 
@@ -18,9 +18,7 @@
 
 <br />
 
-<div align="center">
-  <img width="96%" src="./assets/profile-terminal.svg" alt="Terminal introduction for Eufemio Capoy V" />
-</div>
+
 
 <br />
 
