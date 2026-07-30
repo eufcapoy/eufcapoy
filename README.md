@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Eufemio Capoy V</h1>
+  <h1>Hi, I'm Eufemio Capoy V 👋</h1>
   <h3>Software Developer · Web & Mobile</h3>
 </div>
 
@@ -18,23 +18,21 @@
 
 <br />
 
-## `whoami`
+---
 
-```typescript
-const eufemio = {
-  location: "Cebu City, Philippines",
-  education: "BS Information Technology — University of Cebu, Banilad",
-  role: "Software Developer",
-  focus: ["Web", "Mobile", "Backend", "IoT", "AI"],
-  learningStyle: "Build it, break it, understand it, improve it",
-  openTo: ["Full-time roles", "Freelance projects", "Collaboration"],
-};
-```
+## About
 
-- 💼 Former **Salesforce Intern** at Accenture Academy
-- 🏆 **Best Innovation** award for DermaScan, selected from 17 teams
-- 🚀 **CebuSolutionsFest 2026 finalist**, competing among 70+ teams
-- ☕ Powered by coffee, curiosity, and suspiciously neat PC cable management
+I'm a software developer from **Cebu City, Philippines** who enjoys turning ideas into practical products. I work across web, Android, backend, IoT, and AI—especially on projects where several technologies need to work together as one dependable system.
+
+- 🎓 **BS Information Technology**, University of Cebu – Banilad, Class of 2026
+- 💼 Former **Salesforce Intern at Accenture Academy**, building and customizing business applications
+- 🏆 Built **DermaScan**, awarded Best Innovation among 17 teams
+- 🚀 **CebuSolutionsFest 2026 finalist** among 70+ teams for a Cebu City civic-tech platform
+- 🌱 Currently sharpening my backend, AI integration, and production software engineering skills
+- 🤝 Open to full-time roles, freelance work, and meaningful collaborations
+- ☕ Powered by coffee, curiosity, and endless ingenuity
+
+---
 
 ## Tech I work with
 
@@ -58,8 +56,10 @@ const eufemio = {
   <tr>
     <td width="50%" valign="top">
       <h3>🧴 DermaScan</h3>
-      <p>Facial skin analysis and personalized skincare recommendations powered by machine learning and OpenAI.</p>
-      <p><b>Impact:</b> Won Best Innovation among 17 teams.</p>
+      <p><b>Machine learning · Android · Web</b></p>
+      <p>Analyzes facial skin and generates personalized skincare recommendations through a trained ML model and OpenAI-powered recommendation module.</p>
+      <p>Includes an Android app plus web dashboards for administrators and dermatologists.</p>
+      <p><b>Impact:</b> Best Innovation among 17 teams.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -69,8 +69,9 @@ const eufemio = {
     </td>
     <td width="50%" valign="top">
       <h3>🔥 Heatalert</h3>
-      <p>IoT fire and safety monitoring with live sensor tracking, mobile alerts, and event logging.</p>
-      <p><b>Built with:</b> ESP32 sensors, MQTT, Firebase, and an Android monitoring app.</p>
+      <p><b>IoT · Safety monitoring · Android</b></p>
+      <p>Monitors temperature, smoke, gas, and flame sensors in real time using an ESP32-based device.</p>
+      <p>Synchronizes readings through MQTT and Firebase, with mobile alerts and event logging in an Android app.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
         <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
@@ -82,7 +83,8 @@ const eufemio = {
   <tr>
     <td width="50%" valign="top">
       <h3>📝 4Notes</h3>
-      <p>A secure note-taking application with registration, authentication, and complete CRUD note management.</p>
+      <p><b>Full-stack web application</b></p>
+      <p>A secure note-taking application with registration, authentication, note ownership, and complete CRUD management.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -91,7 +93,8 @@ const eufemio = {
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Civic Tech Platform</h3>
-      <p>Streamlines ordinance dissemination, compliance tracking, and public access for Cebu City.</p>
+      <p><b>Civic tech · Web platform</b></p>
+      <p>Streamlines ordinance dissemination, compliance tracking, and public access for the Cebu City LGU.</p>
       <p><b>Impact:</b> CebuSolutionsFest finalist among 70+ teams.</p>
       <p>
         <img src="https://img.shields.io/badge/Civic_Tech-2563EB?style=flat-square" alt="Civic Tech" />
@@ -101,15 +104,34 @@ const eufemio = {
   </tr>
 </table>
 
+---
+
+## Journey
+
+```text
+2022 ──► Began BS Information Technology at the University of Cebu – Banilad
+2025 ──► Built DermaScan → Best Innovation among 17 teams
+      ├─► Built Heatalert → ESP32, Firebase, MQTT, and Android
+      └─► Completed CCNA: Switching, Routing, and Wireless Essentials
+2026 ──► Salesforce Intern at Accenture Academy
+      ├─► CebuSolutionsFest finalist among 70+ teams
+      ├─► BS Information Technology — Class of 2026
+      └─► Building practical software across web, mobile, backend, IoT, and AI
+```
+
+---
+
 ## GitHub activity
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=eufcapoy&bg_color=00000000&color=94a3b8&line=60a5fa&point=8b5cf6&area=true&area_color=2563eb&hide_border=true" alt="Eufemio's GitHub activity graph" />
 </div>
 
+---
+
 <div align="center">
   <h3>Have an idea worth building?</h3>
-  <p>I'm open to opportunities, freelance work, and collaborations.</p>
+  <p>I'm open to opportunities, freelance work, and collaborations that create something useful.</p>
   <a href="mailto:eufemiolcapoyv@gmail.com">
     <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Eufemio" />
   </a>
