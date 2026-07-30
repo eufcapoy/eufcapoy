@@ -1,44 +1,126 @@
-# Hi, I'm Eufemio Capoy V
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:7c3aed&text=Eufemio%20Capoy%20V&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Web%20%26%20Mobile&descAlignY=60&animation=fadeIn" alt="Eufemio Capoy V — Software Developer" />
+</div>
 
-Bachelor of Science in Information Technology graduate from the University of Cebu.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+practical+software+that+solves+real+problems;Web+%E2%80%A2+Mobile+%E2%80%A2+Backend+%E2%80%A2+IoT+%E2%80%A2+AI;Always+learning+by+building" alt="Typing introduction" />
+  </a>
+</div>
 
-I enjoy building Android Applications, Web Applications, and AI-powered solutions while continuously improving my software development skills.
+<div align="center">
+  <a href="https://github.com/eufcapoy"><img src="https://img.shields.io/badge/GitHub-eufcapoy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/eufemiocapoyv"><img src="https://img.shields.io/badge/LinkedIn-Eufemio_Capoy_V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eufemiolcapoyv@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=eufcapoy&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
+</div>
 
-## Technical Skills
+<br />
 
-- Java
-- Kotlin
-- PHP
-- Laravel
-- Python
-- Firebase
-- MySQL
-- Salesforce
-- Apex
-- SOQL
-- Git
-- GitHub
+## `whoami`
 
-## Featured Projects
+```typescript
+const eufemio = {
+  location: "Cebu City, Philippines",
+  education: "BS Information Technology — University of Cebu, Banilad",
+  role: "Software Developer",
+  focus: ["Web", "Mobile", "Backend", "IoT", "AI"],
+  learningStyle: "Build it, break it, understand it, improve it",
+  openTo: ["Full-time roles", "Freelance projects", "Collaboration"],
+};
+```
 
-### DermaScan
-AI-powered facial skin analysis and personalized skincare recommendation system.
+- 💼 Former **Salesforce Intern** at Accenture Academy
+- 🏆 **Best Innovation** award for DermaScan, selected from 17 teams
+- 🚀 **CebuSolutionsFest 2026 finalist**, competing among 70+ teams
+- ☕ Powered by coffee, curiosity, and suspiciously neat PC cable management
 
-### HeatAlert
-IoT-based fire detection and monitoring system using ESP32.
+## Tech I work with
 
-### 4Notes
-Laravel CRUD web application for secure note management.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,python,php&theme=dark&perline=6" alt="TypeScript, JavaScript, Java, Kotlin, Python, and PHP" />
+  </a>
+  <br /><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,bootstrap,firebase&theme=dark&perline=6" alt="React, Next.js, Node.js, Laravel, Bootstrap, and Firebase" />
+  </a>
+  <br /><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,androidstudio&theme=dark&perline=6" alt="MySQL, PostgreSQL, Git, GitHub, Visual Studio Code, and Android Studio" />
+  </a>
+</div>
 
-### Portfolio Website
-Personal portfolio built with Next.js.
+## Featured work
 
-## Connect with Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧴 DermaScan</h3>
+      <p>Facial skin analysis and personalized skincare recommendations powered by machine learning and OpenAI.</p>
+      <p><b>Impact:</b> Won Best Innovation among 17 teams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 Heatalert</h3>
+      <p>IoT fire and safety monitoring with live sensor tracking, mobile alerts, and event logging.</p>
+      <p><b>Built with:</b> ESP32 sensors, MQTT, Firebase, and an Android monitoring app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+        <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+        <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📝 4Notes</h3>
+      <p>A secure note-taking application with registration, authentication, and complete CRUD note management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ Civic Tech Platform</h3>
+      <p>Streamlines ordinance dissemination, compliance tracking, and public access for Cebu City.</p>
+      <p><b>Impact:</b> CebuSolutionsFest finalist among 70+ teams.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Civic_Tech-2563EB?style=flat-square" alt="Civic Tech" />
+        <img src="https://img.shields.io/badge/Web_Platform-7C3AED?style=flat-square" alt="Web Platform" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-- LinkedIn: *www.linkedin.com/in/eufemiocapoyv*
-- Portfolio: 
+## GitHub overview
 
-<!---
-eufcapoy/eufcapoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eufcapoy&show_icons=true&theme=transparent&hide_border=true&title_color=60a5fa&icon_color=8b5cf6&text_color=94a3b8&ring_color=7c3aed&rank_icon=github" alt="Eufemio's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eufcapoy&layout=compact&theme=transparent&hide_border=true&title_color=60a5fa&text_color=94a3b8&langs_count=8" alt="Eufemio's most-used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=eufcapoy&theme=transparent&hide_border=true&ring=7C3AED&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0" alt="Eufemio's GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=eufcapoy&bg_color=00000000&color=94a3b8&line=60a5fa&point=8b5cf6&area=true&area_color=2563eb&hide_border=true" alt="Eufemio's GitHub activity graph" />
+</div>
+
+<div align="center">
+  <h3>Have an idea worth building?</h3>
+  <p>I'm open to opportunities, freelance work, and collaborations.</p>
+  <a href="mailto:eufemiolcapoyv@gmail.com">
+    <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-7C3AED?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email Eufemio" />
+  </a>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f172a,45:2563eb,100:7c3aed" alt="" />
