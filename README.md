@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Eufemio Capoy V </h1>
+  <h1>Hi, I'm Eufemio Capoy V 👋</h1>
   <h3>Software Developer · Web & Mobile</h3>
 </div>
 
@@ -18,10 +18,6 @@
 
 <br />
 
-
-
-<br />
-
 ---
 
 ## About
@@ -29,7 +25,7 @@
 I'm a software developer from **Cebu City, Philippines** who enjoys turning ideas into practical products. I work across web, Android, backend, IoT, and AI—especially on projects where several technologies need to work together as one dependable system.
 
 - 🎓 **BS Information Technology**, University of Cebu – Banilad, Class of 2026
-- 💼 Former **Salesforce Intern at Accenture Academy**
+- 💼 Former **Salesforce Intern at Accenture Academy**, building and customizing business applications
 - 🏆 Built **DermaScan**, awarded Best Innovation among 17 teams
 - 🚀 **CebuSolutionsFest 2026 finalist** among 70+ teams for a Cebu City civic-tech platform
 - 🌱 Currently sharpening my backend, AI integration, and production software engineering skills
@@ -69,6 +65,8 @@ I'm a software developer from **Cebu City, Philippines** who enjoys turning idea
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </p>
     </td>
     <td width="50%" valign="top">
